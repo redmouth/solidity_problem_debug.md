@@ -7,5 +7,5 @@ https://github.com/trufflesuite/truffle/issues/476
 
 ##### VM Exception while processing transaction: invalid opcode
 1. It's possible that contract is not initialized correctly.
-2. Don't use uninitialized variable.
+2. Don't use **uninitialized** variable.
 3. Remove unnecessary comments ????
